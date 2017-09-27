@@ -2,6 +2,6 @@
 
 ---
 
-### 1. Notes  
-### 2. Jobs
-### 3. Hobbies
+### 1. [Notes](https://zhaojinzhou.github.io/notes/)  
+### 2. [Jobs]()
+### 3. [Hobbies]()
