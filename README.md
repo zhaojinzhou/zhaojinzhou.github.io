@@ -20,12 +20,11 @@
 ## 2. [Jobs]()  
 
  * [shanghai jiao tong university SJTU]()  
-     * focus on bandwidth allocation algorithm of distributed system  
-     * project : fixed &dynamic bandwidth allocation algorithm  
+	* focus on bandwidth allocation algorithm of distributed system  
+    * project : fixed &dynamic bandwidth allocation algorithm  
  * [HUAWEI TECHNOLOGIES CO., LTD.]()  
- 
-     * could computing engineer  
-     * cloud users management team  
+     * could computing engineer
+     * cloud users management team  
      
 ## 3. [Hobbies]()  
   * cloud computing
