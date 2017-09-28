@@ -7,7 +7,6 @@
 ## 1. [Notes](https://zhaojinzhou.github.io/notes/)  
 * [C++ notes](https://github.com/zhaojinzhou/notes/blob/master/C%2B%2B%20note.md);
 * [MarkDown notes](https://github.com/zhaojinzhou/notes/blob/master/MarkDown_notes.md)
-* [EA notes]()
 * [Design pattern notes](https://github.com/zhaojinzhou/notes/blob/master/Design%20Patterns%20Note.md)
 * [Python notes]()
 * [Java notes]()
@@ -21,9 +20,9 @@
 
 ## 2. [Jobs]()  
 
- * [shanghai jiao tong university SJTU]()  
-	* focus on bandwidth allocation algorithm of distributed system  
-    * project : fixed &dynamic bandwidth allocation algorithm  
+ * [Shanghai Jiao Tong University SJTU]()  
+	* Focus on bandwidth allocation algorithm of distributed system  
+    * Project : fixed &dynamic bandwidth allocation algorithm  
  * [HUAWEI TECHNOLOGIES CO., LTD.]()  
      * could computing engineer
      * cloud users management team  
